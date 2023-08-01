@@ -13,7 +13,7 @@ namespace ProjectManagementSystem.Domain
         public double Price { get; set; }
         public string Description { get; set; }
         public Category ProductCategory { get; set; }
-        public Byte[] Image { get; set; }
+        public string Image { get; set; }
        public string  Subcategory { get; set; }
     }
 }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VMLPuAzjgp6MLw3EQAWAHGf66LjlMGFLbxqCqCEyUwA=",
+  "Source": "ProjectManagementSystem.Api",
+  "BasePath": "_content/ProjectManagementSystem.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

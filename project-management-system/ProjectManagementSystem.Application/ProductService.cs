@@ -53,7 +53,7 @@ namespace ProjectManagementSystem.Application
             product.Name = userProduct.Name;
             product.Description = userProduct.Description;
             product.Image = userProduct.Image;
-            product.ProductCategory = userProduct.ProductCategory;
+            product.ProductCategory = (Category)Enum.Parse(typeof(Category), userProduct.ProductCategory, true);
             product.Price = userProduct.Price;
             product.Quantity = userProduct.Quantity;
             product.Subcategory = userProduct.SubCategory;

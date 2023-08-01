@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9ff4b87c-498d-45b4-a03c-9421c96e94bc": {
+      "ProjectGuid": "9ff4b87c-498d-45b4-a03c-9421c96e94bc",
+      "DisplayName": "ProjectManagementSystem.Repository",
+      "ColorIndex": 0
+    },
+    "253b2119-579a-4733-8469-811762e688dd": {
+      "ProjectGuid": "253b2119-579a-4733-8469-811762e688dd",
+      "DisplayName": "ProjectManagementSystem.Domain",
+      "ColorIndex": 1
+    },
+    "9fc189fc-94dc-4b00-93ed-2eeb0f56934e": {
+      "ProjectGuid": "9fc189fc-94dc-4b00-93ed-2eeb0f56934e",
+      "DisplayName": "ProjectManagementSystem.Application",
+      "ColorIndex": 2
+    },
+    "19e9706e-eb04-4409-83e9-62b3571c24da": {
+      "ProjectGuid": "19e9706e-eb04-4409-83e9-62b3571c24da",
+      "DisplayName": "ProjectManagementSystem.Api",
+      "ColorIndex": 3
+    },
+    "70e30872-4347-4309-a822-21e9f995c30c": {
+      "ProjectGuid": "70e30872-4347-4309-a822-21e9f995c30c",
+      "DisplayName": "ProjectManagementSystem.Api",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

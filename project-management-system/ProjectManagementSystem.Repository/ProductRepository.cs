@@ -17,41 +17,41 @@ namespace ProjectManagementSystem.Repository
         {
             new Product()
             {
-              Quantity=10,  Name="Shirt",Description="Shirt for men",Image=new byte[100],Price=1000.78,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Men)
+              Quantity=10,  Name="Shirt",Description="Shirt for men",Image="",Price=1000.78,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Men)
             },
              new Product()
             {
-               Quantity=9,  Name="Denim",Description="Denim for men",Image=new byte[100],Price=900,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Men)
+               Quantity=9,  Name="Denim",Description="Denim for men",Image="",Price=900,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Men)
             }, new Product()
             {
-              Quantity=100,  Name="Top",Description="Top for women",Image=new byte[100],Price=600,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Women)
+              Quantity=100,  Name="Top",Description="Top for women",Image="",Price=600,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Women)
             }, new Product()
             {
-               Quantity=150,  Name="Bottom",Description="Bottom for women",Image=new byte[100],Price=5000,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Women)
+               Quantity=150,  Name="Bottom",Description="Bottom for women",Image="",Price=5000,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Women)
             }, new Product()
             {
-               Quantity=5,  Name="T Shirt",Description="T shirt for men",Image=new byte[100],Price=8000,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Men)
+               Quantity=5,  Name="T Shirt",Description="T shirt for men",Image="",Price=8000,ProductCategory=Category.Appearal, Subcategory=nameof(AppearalSubCategory.Men)
             }, new Product()
             {
-              Quantity=50,  Name="Hier",Description="Hier fridge",Image=new byte[100],Price=1000.78,ProductCategory=Category.Electronics, Subcategory=nameof(ElectronicsSubCategory.Refregirator)
+              Quantity=50,  Name="Hier",Description="Hier fridge",Image="",Price=1000.78,ProductCategory=Category.Electronics, Subcategory=nameof(ElectronicsSubCategory.Refregirator)
             }, new Product()
             {
-               Quantity=160, Name="Voltas",Description="Voltas AC",Image=new byte[100],Price=1000.78,ProductCategory=Category.Electronics, Subcategory=nameof(ElectronicsSubCategory.AC)},
+               Quantity=160, Name="Voltas",Description="Voltas AC",Image="",Price=1000.78,ProductCategory=Category.Electronics, Subcategory=nameof(ElectronicsSubCategory.AC)},
             new Product()
             {
-              Quantity=180,  Name="IPhone",Description="Iphone 14 model",Image=new byte[100],Price=1000.78,ProductCategory=Category.Electronics, Subcategory=nameof(ElectronicsSubCategory.Mobile)
+              Quantity=180,  Name="IPhone",Description="Iphone 14 model",Image="",Price=1000.78,ProductCategory=Category.Electronics, Subcategory=nameof(ElectronicsSubCategory.Mobile)
             }, new Product()
             {
-               Quantity=3, Name="Galaxy",Description="Samsung galaxy s23",Image=new byte[100],Price=1000.78,ProductCategory=Category.Electronics, Subcategory=nameof(ElectronicsSubCategory.Mobile)
+               Quantity=3, Name="Galaxy",Description="Samsung galaxy s23",Image="",Price=1000.78,ProductCategory=Category.Electronics, Subcategory=nameof(ElectronicsSubCategory.Mobile)
             }, new Product()
             {
-              Quantity=25,  Name="SportsShoe",Description="Sportws shoe for men",Image=new byte[100],Price=1000.78,ProductCategory=Category.FootWear, Subcategory=nameof(FootWearSubCategory.Men)
+              Quantity=25,  Name="SportsShoe",Description="Sportws shoe for men",Image="",Price=1000.78,ProductCategory=Category.FootWear, Subcategory=nameof(FootWearSubCategory.Men)
             }, new Product()
             {
-               Quantity=45, Name="Sandles",Description="Sandles for women",Image=new byte[100],Price=1000.78,ProductCategory=Category.FootWear, Subcategory=nameof(FootWearSubCategory.Women)
+               Quantity=45, Name="Sandles",Description="Sandles for women",Image="",Price=1000.78,ProductCategory=Category.FootWear, Subcategory=nameof(FootWearSubCategory.Women)
             }, new Product()
             {
-              Quantity=90,  Name="Shoe",Description="Shoe for kids",Image=new byte[100],Price=1000.78,ProductCategory=Category.FootWear, Subcategory=nameof(FootWearSubCategory.Kids)
+              Quantity=90,  Name="Shoe",Description="Shoe for kids",Image="",Price=1000.78,ProductCategory=Category.FootWear, Subcategory=nameof(FootWearSubCategory.Kids)
             }
           };
         public async Task<List<Product>> GetProducts()

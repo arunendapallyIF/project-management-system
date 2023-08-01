@@ -18,7 +18,7 @@ namespace ProjectManagementSystem.Application.Utility
                     Name = product.Name,
                     Description = product.Description,
                     Image = product.Image,
-                    ProductCategory = product.ProductCategory,
+                    ProductCategory = product.ProductCategory.ToString(),
                     Price = product.Price,
                     Quantity = product.Quantity,
                     SubCategory = product.Subcategory
@@ -36,7 +36,7 @@ namespace ProjectManagementSystem.Application.Utility
                 Name = product.Name,
                 Description = product.Description,
                 Image = product.Image,
-                ProductCategory = product.ProductCategory,
+                ProductCategory = (Category)Enum.Parse(typeof(Category), product.ProductCategory, true),
                 Price = product.Price,
                 Quantity = product.Quantity,
                 Subcategory = product.SubCategory

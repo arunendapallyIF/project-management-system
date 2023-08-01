@@ -1,0 +1,24 @@
+<div class="card">
+  <p-table [value]="products" [tableStyle]="{ 'min-width': '50rem' }">
+      <ng-template pTemplate="header">
+          <tr>
+              <th>Code</th>
+              <th>Name</th>
+              <th>Category</th>
+              <th>Quantity</th>
+              <th>Description</th>
+
+          </tr>
+      </ng-template>
+      <ng-template pTemplate="body" let-product>
+          <tr>
+              <td>{{ product.code }}</td>
+              <td>{{ product.name }}</td>
+              <td>{{ product.category }}</td>
+              <td><div   [ngStyle]="{'background-color': (product.quantity>10&&product.quantity<100 ) ? 'orange' : (product.quantity<10)?'red':'green'}">{{ product.quantity }}</div></td>
+              <td>{{ product.quantity }}</td>
+
+          </tr>
+      </ng-template>
+  </p-table>
+</div>
