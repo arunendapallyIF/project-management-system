@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\bin\Debug\net6.0\ProjectManagementSystem.Repository.deps.json
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\bin\Debug\net6.0\ProjectManagementSystem.Repository.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\bin\Debug\net6.0\ref\ProjectManagementSystem.Repository.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\bin\Debug\net6.0\ProjectManagementSystem.Repository.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\bin\Debug\net6.0\ProjectManagementSystem.Domain.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\bin\Debug\net6.0\ProjectManagementSystem.Domain.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ProjectManagementSystem.Repository.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ProjectManagementSystem.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ProjectManagementSystem.Repository.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ProjectManagementSystem.Repository.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ProjectManagementSystem.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ProjectManagementSystem.Repository.csproj.CopyComplete
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ProjectManagementSystem.Repository.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ref\ProjectManagementSystem.Repository.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Repository\obj\Debug\net6.0\ProjectManagementSystem.Repository.pdb

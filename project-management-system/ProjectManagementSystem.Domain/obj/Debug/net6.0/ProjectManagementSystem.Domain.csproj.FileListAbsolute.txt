@@ -1,0 +1,12 @@
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\bin\Debug\net6.0\ProjectManagementSystem.Domain.deps.json
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\bin\Debug\net6.0\ProjectManagementSystem.Domain.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\bin\Debug\net6.0\ref\ProjectManagementSystem.Domain.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\bin\Debug\net6.0\ProjectManagementSystem.Domain.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\obj\Debug\net6.0\ProjectManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\obj\Debug\net6.0\ProjectManagementSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\obj\Debug\net6.0\ProjectManagementSystem.Domain.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\obj\Debug\net6.0\ProjectManagementSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\obj\Debug\net6.0\ProjectManagementSystem.Domain.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\obj\Debug\net6.0\ref\ProjectManagementSystem.Domain.dll
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\obj\Debug\net6.0\ProjectManagementSystem.Domain.pdb
+C:\Users\pc\OneDrive\Documents\GitHub\project-management-system\project-management-system\ProjectManagementSystem.Domain\obj\Debug\net6.0\ProjectManagementSystem.Domain.csproj.AssemblyReference.cache
